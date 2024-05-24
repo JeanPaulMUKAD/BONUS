@@ -17,5 +17,12 @@
     <string name="painting">Painting</string>
     <string name="photography">Photography</string>
     <string name="tech">Tech</string>
+    <string name="engineering">engineering</string>
+    <string name="finance">finance</string>
+    <string name="geology">geology</string>
+    <string name="history">history</string>
+    <string name="journalism">journalism</string>
+    <string name="law">law</string>
+    <string name="physics">physics</string>
 
 </resources>
