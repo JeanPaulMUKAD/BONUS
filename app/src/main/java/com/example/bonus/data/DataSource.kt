@@ -16,7 +16,6 @@
 package com.example.courses.data
 
 import com.example.bonus.R
-import com.example.courses.R
 import com.example.courses.model.Topic
 
 object DataSource {

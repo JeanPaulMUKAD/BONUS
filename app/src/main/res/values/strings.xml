@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">BONUS</string>
     <string name="architecture">Architecture</string>
+    <string name="automotive">automotive</string>
+    <string name="ecology">ecology</string>
+    <string name="biology">biology</string>
     <string name="crafts">Crafts</string>
     <string name="business">Business</string>
     <string name="culinary">Culinary</string>
